@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...python programmng lnguage
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...victoratela5@gmail.com
+- @VictorOpili
 
 <!---
 Victor1Atela/Victor1Atela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
