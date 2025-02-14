@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Victor1Atela
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...python, java, html, c++, c# programmng lnguages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...victoratela5@gmail.com, @v.opili@hotmail.com
+Hello my name is Victor Opili.
+I currently hold a degree in software engineering from Zetech University.
+I am a software engineer dealing mostly with front end development.
+I'm well skilled in languages like C, C++, java, python, php, C#, javascript.
 
 <!---
 Victor1Atela/Victor1Atela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
